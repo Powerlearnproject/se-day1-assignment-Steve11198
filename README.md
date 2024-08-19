@@ -53,6 +53,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 Common Challenges:
 a. Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
 b. Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
